@@ -1,0 +1,6 @@
+import turtle
+
+screen = turtle.Screen()
+screen.title("game")
+screen.bgcolor("black")
+screen.tracer(0)
